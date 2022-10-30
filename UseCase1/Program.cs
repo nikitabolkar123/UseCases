@@ -1,4 +1,4 @@
-﻿//Calculating Wages till number of working days or total working hours per month is reached
+
 using System;
 
 namespace UseCase6
